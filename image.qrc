@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/1.ico</file>
+        <file>img/2.ico</file>
+        <file>img/ala.png</file>
+        <file>img/as1.png</file>
+        <file>img/as2.png</file>
+        <file>img/au4.png</file>
+        <file>img/avi.png</file>
+        <file>img/background.jpg</file>
+        <file>img/background3.jpg</file>
+        <file>img/chatNow01.png</file>
+        <file>img/chatNow02.png</file>
+        <file>img/friend_list_01.bmp</file>
+        <file>img/icon_close_gray_button.png</file>
+        <file>img/icon_close_red_button.png</file>
+        <file>img/logo.png</file>
+        <file>img/msgbaseBox01.png</file>
+        <file>img/msgbaseBox02.png</file>
+        <file>img/tx.jpg</file>
+        <file>img/tx2.jpg</file>
+        <file>img/ICON/collect_hover.jpg</file>
+        <file>img/ICON/collect_normal.jpg</file>
+        <file>img/ICON/comment_hover.jpg</file>
+        <file>img/ICON/comment_normal.jpg</file>
+        <file>img/ICON/forward_hover.jpg</file>
+        <file>img/ICON/forward_normal.jpg</file>
+        <file>img/ICON/friend01.png</file>
+        <file>img/ICON/friend02.png</file>
+        <file>img/ICON/like_normal.jpg</file>
+        <file>img/ICON/like_press.jpg</file>
+        <file>img/ICON/refresh.jpg</file>
+        <file>img/ICON/refresh_hover.jpg</file>
+        <file>img/ICON/setting_01.png</file>
+        <file>img/ICON/setting_02.png</file>
+        <file>img/ICON/write.jpg</file>
+        <file>img/ICON/refresh1.jpg</file>
+        <file>img/ICON/refresh1_hover.jpg</file>
+        <file>img/ICON/refresh1_press.jpg</file>
+    </qresource>
+</RCC>

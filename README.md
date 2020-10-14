@@ -3,7 +3,7 @@
 - 基于QT开发的一个交友分享平台，可实现分享，点赞，评论，转发，私聊等功能。
 ## 项目模块
 - 客户端：SomethingToSayClient
-- 服务端：SomethingToSay
+- 服务端：SomethingToSayServer
 ## 开发环境
 - Windows，QT5.8，SQLite3，C++
 ## 技术要点
